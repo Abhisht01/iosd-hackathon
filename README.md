@@ -1,4 +1,4 @@
-# CURE (Your one stop solution for all medical problems)
+# CURE (Your one stop solution for all medical problems!)
 
 # INTRODUCTION
 
@@ -16,11 +16,16 @@ Our Project mainly focuses on solving 3 major problems faced in the healthcare i
 
 Chatbots are interactive applications that are designed to simulate human conversations. The main purpose is to provide a convenient way for individuals to reach out to a company and get help.Chatbots use a combination of artificial intelligence and Natural Language Understanding (NLU) to process inputs and compose replies. The backend of the chatbot with the help of PyTorch framework using a combination of Neural Hidden layers, Activation layers and finally an output layer. To train the model, we scraped the internet to build a dataset which consisted of lots of medical queries and their answers.
 
-Advantages of chatbots in the healthcare industry.
+Advantages of chatbots in the healthcare industry:
+
 a) Reduced Waiting Times
+
 b) Scalable Customer Service
+
 c) Timely Medical Advice
+
 d) Appointment Scheduling
+
 e) Massive Cost Savings
 
 2) BLOCKCHAIN BASED DATA STORAGE SYSTEM: 
@@ -33,7 +38,9 @@ Blockchain based chemist shop for ensuring data privacy and to ensure that only 
 
 Advantages of Blockchain in Healthcare Industry: 
 
-a) Healthcare industry, helping protect patient health data when transporting it. 
+a) Healthcare industry, helping protect patient health data when transporting it.
+
 b) The system does not store data of any kind, thus not prone to data leak.
+
 c) It operates as both a network and a protocol to set policies and configure data layers while verifying the sources and destinations of data in real time.
 
